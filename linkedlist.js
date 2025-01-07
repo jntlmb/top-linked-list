@@ -1,21 +1,3 @@
-// Methods:
-//
-// append(value)
-// prepend(value)
-// size
-// head
-// tail
-// at(index)
-// pop
-// contains(value)
-// find(value)
-// toString
-//
-// Extra Credit:
-//
-// insertAt(value, index)
-// removeAt(value, index)
-
 import Node from "./node.js";
 
 export default class LinkedList {
